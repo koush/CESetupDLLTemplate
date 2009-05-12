@@ -1,0 +1,8 @@
+VSWIZARD 7.0
+Wizard=VsWizard.VsWizardEngine.9.0
+
+Param="WIZARD_NAME = CE Setup DLL"
+Param="ABSOLUTE_PATH = C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\VCWizards\SmartDeviceAppWiz\CESetupDLL"
+Param="FALLBACK_LCID = 1033"
+Param="WIZARD_UI = FALSE"
+Param="SOURCE_FILTER = txt"
